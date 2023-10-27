@@ -88,3 +88,15 @@ a:hover{
 .a{
     color: rgba(55,53,47,.8)
 }
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: end;
+    height: 10em;
+}
+footer em{
+    font-size: 0.8em;
+    margin: 0.5em;
+}
