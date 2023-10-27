@@ -3,9 +3,18 @@
     src: url(myKaira.ttf);
 }
 
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 h1 {
     font-family: myKaira;
+    font-size: 8em;
+    margin: 0.2em;
 }
 #logo{
-    height: 5em;
+    height: 10em;
+    margin: 0.2em;
 }
