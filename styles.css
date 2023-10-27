@@ -2,12 +2,17 @@
     font-family: myKaira;
     src: url(myKaira.ttf);
 }
+body{
+    margin: 0;
+}
 
 header{
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(#E59FC7, #E88EB2);
+    min-height: 15em;
 }
 h1 {
     font-family: myKaira;
