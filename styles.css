@@ -71,3 +71,7 @@ p{
     padding-left: 1em;
     margin-top: 5em;
 }
+#galois_picture{
+    width: 100%;
+    border-radius: 1em;
+}
