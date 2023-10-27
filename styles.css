@@ -36,3 +36,24 @@ h1::selection {
     height: 10em;
     margin: 0.2em;
 }
+
+h2{
+    text-align: center;
+    margin: auto;
+}
+
+main{
+    display: flex;
+}
+#left{
+    flex: 1.6;
+    padding: 1em;
+    margin-left: 3em;
+}
+#right{
+    flex: 1;
+    padding: 1em;
+}
+p{
+    text-align: justify;
+}
