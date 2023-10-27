@@ -1,0 +1,8 @@
+@font-face {
+    font-family: myKaira;
+    src: url(myKaira.ttf);
+}
+
+h1 {
+    font-family: myKaira;
+}
