@@ -40,20 +40,34 @@ h1::selection {
 h2{
     text-align: center;
     margin: auto;
+    margin-bottom: 2em;
 }
 
 main{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 #left{
     flex: 1.6;
-    padding: 1em;
-    margin-left: 3em;
+    margin-top: 3em;
+    padding-left: 2em;
+    padding-right: 1em;
+    max-width: 50em;
+    min-width: 25em;
 }
 #right{
     flex: 1;
-    padding: 1em;
+    padding-left: 1em;
+    padding-right: 2em;
+    max-width: 35em;
+    min-width: 15em;
 }
 p{
     text-align: justify;
+}
+.citation{
+    border-left: #37352f 0.3em solid;
+    padding-left: 1em;
+    margin-top: 5em;
 }
