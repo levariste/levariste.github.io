@@ -75,3 +75,12 @@ p{
     width: 100%;
     border-radius: 1em;
 }
+a{
+    color: rgba(55,53,47,.6)
+}
+a:hover{
+    color: rgba(55,53,47,.8)
+}
+.a{
+    color: rgba(55,53,47,.8)
+}
