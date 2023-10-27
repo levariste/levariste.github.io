@@ -1,6 +1,6 @@
 @font-face {
     font-family: myKaira;
-    src: url(myKaira.ttf);
+    src: url(fonts/myKaira.ttf);
 }
 body{
     margin: 0;
