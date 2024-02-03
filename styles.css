@@ -89,6 +89,12 @@ a:hover{
     color: rgba(55,53,47,.8)
 }
 
+.question{
+    margin-left: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
+
 footer{
     display: flex;
     flex-direction: row;
