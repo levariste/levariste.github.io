@@ -106,3 +106,9 @@ footer em{
     font-size: 0.8em;
     margin: 0.5em;
 }
+
+nav{
+    position: absolute;
+    right: 8px;
+    top: 2px;
+}
