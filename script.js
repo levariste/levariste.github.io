@@ -6,12 +6,14 @@ function lightTheme() {
   darkThemeButton.style.display = "block";
   lightThemeButton.style.display = "none";
   localStorage.setItem("theme", "light");
+  logo.src = "images/logo_bis.svg";
 }
 function darkTheme() {
   document.body.classList.add("dark-mode");
   darkThemeButton.style.display = "none";
   lightThemeButton.style.display = "block";
   localStorage.setItem("theme", "dark");
+  logo.src = "images/logo_ter.svg";
 }
 darkThemeButton.addEventListener("click", darkTheme);
 lightThemeButton.addEventListener("click", lightTheme);
