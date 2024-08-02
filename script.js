@@ -11,5 +11,15 @@ function toggleTheme() {
   }
   document.body.classList.toggle("dark-mode");
 }
-darkThemeButton.addEventListener("click", toggleTheme);
-lightThemeButton.addEventListener("click", toggleTheme);
+function lightTheme() {
+  document.body.classList.remove("dark-mode");
+  darkThemeButton.style.display = "block";
+  lightThemeButton.style.display = "none";
+}
+function darkTheme() {
+  document.body.classList.add("dark-mode");
+  darkThemeButton.style.display = "none";
+  lightThemeButton.style.display = "block";
+}
+darkThemeButton.addEventListener("click", darkTheme);
+lightThemeButton.addEventListener("click", lightTheme);
