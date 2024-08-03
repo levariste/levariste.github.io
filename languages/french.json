@@ -1,0 +1,143 @@
+{
+    "language": "fr",
+    "title": "l'Évariste",
+    "subtitle": "(Compétition de Mathématiques)",
+    "info": {
+        "title": "🛈 Informations générales:",
+        "text": [
+            "Bienvenue sur le site non-officiel de l’Evariste, concours d’excellence mathématique organisé par la Albert School.",
+            "Son nom fait référence au prodige des mathématiques Evariste Galois, un des plus grands mathématiciens du XIXème siècle célèbre pour son intuition formidable et son impétuosité déraisonnable.",
+            "<br><br>",
+            "Il s’agit d’un concours ouvert à tous les lycéens dont la première édition se tiendra le samedi 3 février 2024 au sein des locaux de la Albert School (campus de Paris - Xème arrondissement).",
+            "<br><br>",
+            "Pour y participer vous devez réunir une équipe de quatre personnes contenant à minima une fille.",
+            "Vous trouverez les modalités d’inscription dans la rubrique qui suit.",
+            "<br><br>",
+            "<strong>Le concours est constitué de deux épreuves écrites:</strong>",
+            "<ul>",
+            "<li>Une épreuve en solo le matin de 10h00 à 12h00.</li>",
+            "<li>Une épreuve en groupe de quatre l’après-midi de 13h00 à 17h00.</li>",
+            "</ul>",
+            "Vous trouverez dans les rubriques ci-dessous toutes les informations importantes que vous cherchez.",
+            "Si des questions persistent n’hésitez pas à nous contacter et nous tâcherons de vous répondre dès que possible."
+        ]
+    },
+    "prize": {
+        "title": "💸 Cashprize:",
+        "text": [
+            "La modique somme de 100€ sera versée aux 5 premiers de l’épreuve du matin.",
+            "<br><br>",
+            "<em>Pour ce qui est de l’épreuve de l’après-midi:</em>",
+            "<ul>",
+            "<li>1000€ seront versés au groupe arrivant premier.</li>",
+            "<li>600€ seront versés au groupe arrivant deuxième.</li>",
+            "<li>400€ seront versés au groupe arrivant troisième.</li>",
+            "</ul>",
+            "Les trois candidats arrivant premiers au classement global se verront attribuer de plus chacun un trophée, et il y aura une surprise !",
+            "<br><br>",
+            "(A noter que l’épreuve matinale est coefficient 1, et l’épreuve postprandiale est coefficient 2)"
+        ]
+    },
+    "registration": {
+        "title": "📝 Modalités d’inscription:",
+        "text": [
+            "<p>Pour prétendre à l’Evariste rien de plus simple, vous devez avec votre équipe:</p>",
+            "<ul>",
+            "<li>Remplir chacun le Typeform suivant:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2024\">https://albertschool.typeform.com/levariste-2024<a>",
+            "</li>",
+            "<li>Puis envoyer à <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
+            "(avec en objet “Evariste 2024” suivi du nom de votre équipe) les éléments suivants:",
+            "<ol>",
+            "<li>Au choix:",
+            "<ul>",
+            "<li>Une vidéo d’une durée de 2 à 3 minutes qui représentera votre équipe et qui présentera de façon originale votre attrait pour les mathématiques.</li>",
+            "<li>Un texte de deux pages maximum qui représentera votre équipe et qui présentera de façon originale votre attrait pour les mathématiques.</li>",
+            "</ul>",
+            "N’hésitez pas à laisser libre cours à votre imagination !",
+            "</li>",
+            "<li>Un justificatif chacun prouvant que vous êtes bien lycéen.",
+            "Cela peut-être un certificat de scolarité nominatif et daté, un bulletin de notes nominatif et daté, etc.</li>",
+            "</ol>",
+            "</li>",
+            "</ul>"
+        ]
+    },
+    "FAQ": {
+        "title": "⁉️ FAQ",
+        "text": [
+            "<p class=\"question\">Je n'ai pas de groupe, comment faire ?</p>",
+            "<p class=\"answer\">",
+            "Vous pouvez rejoindre le Discord pour constituer une équipe avec d’autres dans le même cas !",
+            "(<a href=\"https://discord.gg/QF8vKGwXbk\">https://discord.gg/QF8vKGwXbk</a>)",
+            "</p>",
+            "<p class=\"question\">Je ne suis pas Français, puis-je participer ?</p>",
+            "<p class=\"answer\">",
+            "La nationalité n'est pas un critère pour participer.",
+            "Vous êtes les bienvenus quelle que soit votre nationalité.",
+            "</p>",
+            "<p class=\"question\">Je ne suis pas scolarisé en France, puis-je participer ?</p>",
+            "<p class=\"answer\">Les participants non scolarisés en France sont également les bienvenus.",
+            "Il faut cependant être scolarisé à un niveau équivalent au lycée en France, et pouvoir se rendre à Albert School le jour du Concours.",
+            "</p>",
+            "<p class=\"question\">Je suis en seconde, puis-je participer ?</p>",
+            "<p class=\"answer\">",
+            "Oui, les élèves de seconde peuvent participer à ce concours.<br>",
+            "Gardez à l’esprit que les énoncés sont écrits en visant un public de première et terminale.",
+            "</p>"
+        ]
+    },
+    "quote": [
+        "« Je rêve d'un jour où l'égoïsme ne régnera plus dans les sciences, ",
+        "où on s'associera pour étudier, au lieu d'envoyer aux académiciens des plis cachetés, ",
+        "on s'empressera de publier ses moindres observations pour peu qu'elles soient nouvelles, ",
+        "et on ajoutera “je ne sais pas le reste”. »"
+    ],
+    "history": {
+        "title": "🏆 Palmarès",
+        "text": "Pour le moment il n’y a aucun lauréat, la première édition n’a pas encore eu lieu !"
+    },
+    "contact": {
+        "title": "📞 Nous contacter",
+        "text": [
+            "<a href=\"https://www.instagram.com/albertschool.business.data/\">Instagram</a><br>",
+            "<span class=\"a\">Email: </span><a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>"
+        ]
+    },
+    "rules": {
+        "title": "⚖️ Règlement",
+        "text": [
+            "<p>",
+            "Ce règlement vise à définir les conditions et modalités de participation à ce concours.",
+            "<br><br>",
+            "Les organisateurs se réservent le droit de modifier le règlement en cas de circonstances imprévues, en informant les participants des modifications apportées.",
+            "<br><br>",
+            "Le règlement sera rappelé en début de chaque épreuve.",
+            "</p>",
+            "<ul>",
+            "<li>Les candidats sont tenus de se présenter avec une pièce d'identité valide le jour du concours.</li>",
+            "<li>",
+            "L'utilisation de tout document ou matériel électronique (calculatrices, téléphones, tablettes,",
+            "ordinateurs, montres connectées et tous appareils électroniques de communication ou de stockage) est",
+            "strictement interdite pendant les épreuves. Tout manquement à cette règle entraînera la",
+            "disqualification immédiate du candidat ainsi que de son équipe.",
+            "</li>",
+            "<li>Tout comportement de triche ou tentative de fraude de la part d’un candidat entraînera sa disqualification immédiate ainsi que celle de son équipe.</li>",
+            "<li>",
+            "Lorsque le signal de fin d’épreuve retentit et qu’un candidat ne pose pas son stylo et continue",
+            "d’écrire, le surveillant de la salle se réserve le droit de disqualifier le candidat ainsi que son",
+            "équipe.",
+            "</li>",
+            "<li>",
+            "Les candidats doivent se présenter quinze minutes avant le début de chaque épreuve.",
+            "Tout candidat arrivant en retard se verra refusé et disqualifiera ainsi son équipe.",
+            "</li>",
+            "<li>Les résultats du concours seront publiés sur le site officiel de l'Evariste dans les jours suivant la compétition.</li>",
+            "<li>",
+            "A l’annonce des résultats les équipes participantes auront un délai spécifié d’un mois pour déposer toute réclamation concernant les résultats.",
+            "Les réclamations doivent être soumises par écrit et doivent être dûment motivées.",
+            "</li>",
+            "</ul>"
+        ]
+    }
+}
