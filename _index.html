@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="icon" href="../images/logo.svg">
+</head>
+
+<body>
+    <nav>
+        <!--
+            <button id="light-theme" class="theme-button">🌞</button>
+            <button id="dark-theme" class="theme-button">🌚</button>
+        -->
+        <button id="light-theme" class="theme-button">◐</button>
+        <button id="dark-theme" class="theme-button">◑</button>
+    </nav>
+    <header>
+        <img src="../images/logo_bis.svg" alt="logo" id="logo">
+        <h1>{{title}}</h1>
+    </header>
+    <main>
+        <section id="left">
+            <h2>{{subtitle}}</h2>
+            <h3>{{info.title}}</h3>
+            <p>
+                {{info.text}}
+            </p>
+            <h3>{{prize.title}}</h3>
+            <p>
+                {{prize.text}}
+            </p>
+            <h3>{{registration.title}}</h3>
+            <p>
+                {{registration.text}}
+            </p>
+            <h3>{{rules.title}}</h3>
+            {{rules.text}}
+            <h3>{{FAQ.title}}</h3>
+            {{FAQ.text}}
+        </section>
+
+        <section id="right">
+            <p class="citation">
+                {{quote}}
+            </p>
+            <img src="../images/evariste_galois.webp" alt="Evariste Galois" id="galois_picture">
+            <h3>📖 Annales</h3>
+            <ul>
+                <li><em><a target="_blank" href="../annales/Sujet0.pdf">Sujet zéro</a></em></li>
+                <li><em><a target="_blank" href="../annales/SujetIndividuel2024.pdf">Sujet Individuel 2024</a></em></li>
+                <li><em><a target="_blank" href="../annales/SujetIndividuel2024-ebauche-corrige.pdf">
+                            Sujet Individuel 2024 (ébauche de corrigé)
+                        </a></em></li>
+                <li><em><a target="_blank" href="../annales/SujetGroupe2024.pdf">Sujet Groupe 2024</a></em></li>
+                <li><em><a target="_blank" href="../annales/SujetGroupe2024-ebauche-corrige.pdf">
+                            Sujet Groupe 2024 (ébauche de corrigé)
+                        </a></em></li>
+            </ul>
+            <h3>{{history.title}}</h3>
+            <em>{{history.text}}</em>
+            <h3>{{contact.title}}</h3>
+            {{contact.text}}
+        </section>
+    </main>
+
+    <footer>
+        <em>© 2023 L'ÉVARISTE</em>
+    </footer>
+
+
+</body>
+
+<script src="../script.js"></script>
+
+</html>
