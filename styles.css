@@ -162,6 +162,13 @@ nav a{
     padding: 0;
     margin: 2.5px;
 }
+nav a img{
+    height: 22px;
+}
 nav button{
     margin-left: 1em;
+    background: none;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
 }
