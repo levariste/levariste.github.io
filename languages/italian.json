@@ -1,0 +1,143 @@
+{
+    "language": "it",
+    "title": "l'Évariste",
+    "subtitle": "(Competizione di Matematica)",
+    "info": {
+        "title": "🛈 Informazioni generali:",
+        "text": [
+            "Benvenuti nel sito non ufficiale dell'Evariste, concorso di eccellenza matematica organizzato dalla Albert School.",
+            "Il suo nome fa riferimento al prodigio della matematica Evariste Galois, uno dei più grandi matematici del XIX secolo famoso per la sua formidabile intuizione e la sua impetuosità irragionevole.",
+            "<br><br>",
+            "Si tratta di un concorso aperto a tutti gli studenti delle scuole superiori, la cui prima edizione si terrà sabato 3 febbraio 2024 presso i locali della Albert School (campus di Parigi - 10° arrondissement).",
+            "<br><br>",
+            "Per partecipare è necessario formare una squadra di quattro persone, contenente almeno una ragazza.",
+            "Troverete le modalità di iscrizione nella sezione seguente.",
+            "<br><br>",
+            "<strong>Il concorso è costituito da due prove scritte:</strong>",
+            "<ul>",
+            "<li>Una prova individuale al mattino dalle 10:00 alle 12:00.</li>",
+            "<li>Una prova di gruppo di quattro persone nel pomeriggio dalle 13:00 alle 17:00.</li>",
+            "</ul>",
+            "Nelle sezioni sottostanti troverete tutte le informazioni importanti che cercate.",
+            "Se avete domande, non esitate a contattarci e cercheremo di rispondere il prima possibile."
+        ]
+    },
+    "prize": {
+        "title": "💸 Premio in denaro:",
+        "text": [
+            "La modesta somma di 100€ sarà versata ai primi 5 della prova del mattino.",
+            "<br><br>",
+            "<em>Per quanto riguarda la prova del pomeriggio:</em>",
+            "<ul>",
+            "<li>1000€ saranno versati al gruppo che arriverà primo.</li>",
+            "<li>600€ saranno versati al gruppo che arriverà secondo.</li>",
+            "<li>400€ saranno versati al gruppo che arriverà terzo.</li>",
+            "</ul>",
+            "I primi tre candidati nella classifica generale riceveranno inoltre ciascuno un trofeo e ci sarà una sorpresa!",
+            "<br><br>",
+            "(Da notare che la prova del mattino ha un coefficiente di 1, mentre la prova pomeridiana ha un coefficiente di 2)"
+        ]
+    },
+    "registration": {
+        "title": "📝 Modalità di iscrizione:",
+        "text": [
+            "<p>Per partecipare all’Evariste, niente di più semplice, dovete, con la vostra squadra:</p>",
+            "<ul>",
+            "<li>Compilare ciascuno il seguente Typeform:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2024\">https://albertschool.typeform.com/levariste-2024<a>",
+            "</li>",
+            "<li>Quindi inviare a <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
+            "(con oggetto “Evariste 2024” seguito dal nome della vostra squadra) i seguenti elementi:",
+            "<ol>",
+            "<li>A scelta:",
+            "<ul>",
+            "<li>Un video della durata di 2-3 minuti che rappresenti la vostra squadra e presenti in modo originale il vostro interesse per la matematica.</li>",
+            "<li>Un testo di massimo due pagine che rappresenti la vostra squadra e presenti in modo originale il vostro interesse per la matematica.</li>",
+            "</ul>",
+            "Non esitate a dare libero sfogo alla vostra immaginazione!",
+            "</li>",
+            "<li>Un documento per ciascuno che dimostri che siete effettivamente studenti delle scuole superiori.",
+            "Questo può essere un certificato di iscrizione nominativo e datato, una pagella nominativa e datata, ecc.</li>",
+            "</ol>",
+            "</li>",
+            "</ul>"
+        ]
+    },
+    "FAQ": {
+        "title": "⁉️ FAQ",
+        "text": [
+            "<p class=\"question\">Non ho un gruppo, cosa fare?</p>",
+            "<p class=\"answer\">",
+            "Potete unirvi al Discord per formare una squadra con altri nella stessa situazione!",
+            "(<a href=\"https://discord.gg/QF8vKGwXbk\">https://discord.gg/QF8vKGwXbk</a>)",
+            "</p>",
+            "<p class=\"question\">Non sono francese, posso partecipare?</p>",
+            "<p class=\"answer\">",
+            "La nazionalità non è un criterio per partecipare.",
+            "Siete i benvenuti indipendentemente dalla vostra nazionalità.",
+            "</p>",
+            "<p class=\"question\">Non studio in Francia, posso partecipare?</p>",
+            "<p class=\"answer\">I partecipanti che non studiano in Francia sono anch'essi i benvenuti.",
+            "Tuttavia, è necessario essere iscritti a un livello equivalente alle scuole superiori in Francia e poter recarsi alla Albert School il giorno del concorso.",
+            "</p>",
+            "<p class=\"question\">Sono al secondo anno, posso partecipare?</p>",
+            "<p class=\"answer\">",
+            "Sì, gli studenti del secondo anno possono partecipare a questo concorso.<br>",
+            "Tenete presente che i quesiti sono scritti per un pubblico del terzo e quarto anno.",
+            "</p>"
+        ]
+    },
+    "quote": [
+        "« Sogno un giorno in cui l'egoismo non regnerà più nelle scienze, ",
+        "in cui ci si assocerà per studiare, invece di inviare agli accademici buste sigillate, ",
+        "ci si affretterà a pubblicare le proprie minime osservazioni purché siano nuove, ",
+        "e si aggiungerà “non so il resto”. »"
+    ],
+    "history": {
+        "title": "🏆 Albo d'oro",
+        "text": "Al momento non ci sono vincitori, la prima edizione non si è ancora tenuta!"
+    },
+    "contact": {
+        "title": "📞 Contattaci",
+        "text": [
+            "<a href=\"https://www.instagram.com/albertschool.business.data/\">Instagram</a><br>",
+            "<span class=\"a\">Email: </span><a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>"
+        ]
+    },
+    "rules": {
+        "title": "⚖️ Regolamento",
+        "text": [
+            "<p>",
+            "Questo regolamento ha lo scopo di definire le condizioni e le modalità di partecipazione a questo concorso.",
+            "<br><br>",
+            "Gli organizzatori si riservano il diritto di modificare il regolamento in caso di circostanze impreviste, informando i partecipanti delle modifiche apportate.",
+            "<br><br>",
+            "Il regolamento sarà ricordato all'inizio di ogni prova.",
+            "</p>",
+            "<ul>",
+            "<li>I candidati sono tenuti a presentarsi con un documento di identità valido il giorno del concorso.</li>",
+            "<li>",
+            "L'uso di qualsiasi documento o materiale elettronico (calcolatrici, telefoni, tablet,",
+            "computer, orologi connessi e tutti i dispositivi elettronici di comunicazione o archiviazione) è",
+            "strettamente vietato durante le prove. Qualsiasi violazione di questa regola comporterà la",
+            "squalifica immediata del candidato e della sua squadra.",
+            "</li>",
+            "<li>Qualsiasi comportamento di frode o tentativo di frode da parte di un candidato comporterà la sua immediata squalifica e quella della sua squadra.</li>",
+            "<li>",
+            "Quando suona il segnale di fine prova e un candidato non posa la penna e continua",
+            "a scrivere, il sorvegliante della sala si riserva il diritto di squalificare il candidato e la sua",
+            "squadra.",
+            "</li>",
+            "<li>",
+            "I candidati devono presentarsi quindici minuti prima dell'inizio di ogni prova.",
+            "Qualsiasi candidato che arriva in ritardo sarà rifiutato e squalificherà così la sua squadra.",
+            "</li>",
+            "<li>I risultati del concorso saranno pubblicati sul sito ufficiale dell'Evariste nei giorni successivi alla competizione.</li>",
+            "<li>",
+            "All'annuncio dei risultati, le squadre partecipanti avranno un periodo specificato di un mese per presentare eventuali reclami riguardanti i risultati.",
+            "I reclami devono essere presentati per iscritto e devono essere debitamente motivati.",
+            "</li>",
+            "</ul>"
+        ]
+    }
+}
