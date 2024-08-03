@@ -1,0 +1,143 @@
+{
+    "language": "en",
+    "title": "l'Évariste",
+    "subtitle": "(Mathematics Competition)",
+    "info": {
+        "title": "🛈 General Information:",
+        "text": [
+            "Welcome to the unofficial site of l’Evariste, a mathematics excellence competition organized by the Albert School.",
+            "Its name refers to the mathematics prodigy Évariste Galois, one of the greatest mathematicians of the 19th century, famous for his formidable intuition and reckless impetuosity.",
+            "<br><br>",
+            "It is a competition open to all high school students, and the first edition will be held on Saturday, February 3, 2024, at the Albert School premises (Paris - 10th arrondissement campus).",
+            "<br><br>",
+            "To participate, you must form a team of four people, including at least one girl.",
+            "You will find the registration details in the following section.",
+            "<br><br>",
+            "<strong>The competition consists of two written tests:</strong>",
+            "<ul>",
+            "<li>A solo test in the morning from 10:00 to 12:00.</li>",
+            "<li>A group test of four in the afternoon from 13:00 to 17:00.</li>",
+            "</ul>",
+            "In the sections below, you will find all the important information you are looking for.",
+            "If you have any questions, do not hesitate to contact us, and we will try to answer as soon as possible."
+        ]
+    },
+    "prize": {
+        "title": "💸 Cash Prize:",
+        "text": [
+            "The modest sum of €100 will be awarded to the top 5 in the morning test.",
+            "<br><br>",
+            "<em>For the afternoon test:</em>",
+            "<ul>",
+            "<li>€1000 will be awarded to the first place team.</li>",
+            "<li>€600 will be awarded to the second place team.</li>",
+            "<li>€400 will be awarded to the third place team.</li>",
+            "</ul>",
+            "The top three candidates in the overall ranking will also each receive a trophy, and there will be a surprise!",
+            "<br><br>",
+            "(Note that the morning test has a coefficient of 1, and the afternoon test has a coefficient of 2)"
+        ]
+    },
+    "registration": {
+        "title": "📝 Registration Details:",
+        "text": [
+            "<p>To participate in l’Evariste, nothing could be simpler. You must, with your team:</p>",
+            "<ul>",
+            "<li>Each fill out the following Typeform:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2024\">https://albertschool.typeform.com/levariste-2024<a>",
+            "</li>",
+            "<li>Then send to <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
+            "(with the subject “Evariste 2024” followed by your team's name) the following items:",
+            "<ol>",
+            "<li>Choose one:",
+            "<ul>",
+            "<li>A video lasting 2 to 3 minutes representing your team and presenting your interest in mathematics in an original way.</li>",
+            "<li>A text of up to two pages representing your team and presenting your interest in mathematics in an original way.</li>",
+            "</ul>",
+            "Feel free to let your imagination run wild!",
+            "</li>",
+            "<li>A proof for each member showing that you are indeed high school students.",
+            "This can be a named and dated school certificate, a named and dated report card, etc.</li>",
+            "</ol>",
+            "</li>",
+            "</ul>"
+        ]
+    },
+    "FAQ": {
+        "title": "⁉️ FAQ",
+        "text": [
+            "<p class=\"question\">I don't have a team, what should I do?</p>",
+            "<p class=\"answer\">",
+            "You can join the Discord to form a team with others in the same situation!",
+            "(<a href=\"https://discord.gg/QF8vKGwXbk\">https://discord.gg/QF8vKGwXbk</a>)",
+            "</p>",
+            "<p class=\"question\">I am not French, can I participate?</p>",
+            "<p class=\"answer\">",
+            "Nationality is not a criterion for participation.",
+            "You are welcome regardless of your nationality.",
+            "</p>",
+            "<p class=\"question\">I am not studying in France, can I participate?</p>",
+            "<p class=\"answer\">Participants not studying in France are also welcome.",
+            "However, you must be studying at a level equivalent to high school in France and be able to come to Albert School on the day of the competition.",
+            "</p>",
+            "<p class=\"question\">I am in tenth grade, can I participate?</p>",
+            "<p class=\"answer\">",
+            "Yes, tenth-grade students can participate in this competition.<br>",
+            "Keep in mind that the questions are written for an eleventh and twelfth-grade audience.",
+            "</p>"
+        ]
+    },
+    "quote": [
+        "“I dream of a day when selfishness will no longer reign in science, ",
+        "when people will collaborate to study, instead of sending sealed envelopes to academicians, ",
+        "they will hasten to publish their smallest new observations, ",
+        "and will add ‘I don't know the rest.’”"
+    ],
+    "history": {
+        "title": "🏆 Winners",
+        "text": "At the moment there are no winners, the first edition has not yet taken place!"
+    },
+    "contact": {
+        "title": "📞 Contact Us",
+        "text": [
+            "<a href=\"https://www.instagram.com/albertschool.business.data/\">Instagram</a><br>",
+            "<span class=\"a\">Email: </span><a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>"
+        ]
+    },
+    "rules": {
+        "title": "⚖️ Rules",
+        "text": [
+            "<p>",
+            "These rules aim to define the conditions and terms of participation in this competition.",
+            "<br><br>",
+            "The organizers reserve the right to modify the rules in case of unforeseen circumstances, informing participants of the changes made.",
+            "<br><br>",
+            "The rules will be reiterated at the beginning of each test.",
+            "</p>",
+            "<ul>",
+            "<li>Candidates are required to present valid identification on the day of the competition.</li>",
+            "<li>",
+            "The use of any document or electronic material (calculators, phones, tablets,",
+            "computers, smartwatches, and all electronic communication or storage devices) is",
+            "strictly prohibited during the tests. Any violation of this rule will result in the",
+            "immediate disqualification of the candidate and their team.",
+            "</li>",
+            "<li>Any cheating behavior or attempt to cheat by a candidate will result in their immediate disqualification and that of their team.</li>",
+            "<li>",
+            "When the test end signal sounds and a candidate does not put down their pen and continues",
+            "writing, the room supervisor reserves the right to disqualify the candidate and their",
+            "team.",
+            "</li>",
+            "<li>",
+            "Candidates must arrive fifteen minutes before the start of each test.",
+            "Any candidate arriving late will be refused entry and will disqualify their team.",
+            "</li>",
+            "<li>The competition results will be published on the official Evariste website in the days following the competition.</li>",
+            "<li>",
+            "Upon the announcement of the results, participating teams will have a specified period of one month to submit any claims regarding the results.",
+            "Claims must be submitted in writing and must be duly substantiated.",
+            "</li>",
+            "</ul>"
+        ]
+    }
+}
