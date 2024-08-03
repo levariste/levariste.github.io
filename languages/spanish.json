@@ -1,0 +1,142 @@
+{
+    "language": "es",
+    "title": "l'Évariste",
+    "subtitle": "(Competición de Matemáticas)",
+    "info": {
+        "title": "🛈 Información general:",
+        "text": [
+            "Bienvenido al sitio no oficial de l’Evariste, concurso de excelencia matemática organizado por la Albert School.",
+            "Su nombre hace referencia al prodigio de las matemáticas Évariste Galois, uno de los más grandes matemáticos del siglo XIX, famoso por su formidable intuición y su imprudente impulsividad.",
+            "<br><br>",
+            "Se trata de un concurso abierto a todos los estudiantes de secundaria cuya primera edición se celebrará el sábado 3 de febrero de 2024 en las instalaciones de la Albert School (campus de París - X distrito).",
+            "<br><br>",
+            "Para participar, debe formar un equipo de cuatro personas que incluya al menos una chica.",
+            "Encontrará los detalles de inscripción en la sección siguiente.",
+            "<br><br>",
+            "<strong>El concurso consta de dos pruebas escritas:</strong>",
+            "<ul>",
+            "<li>Una prueba individual por la mañana de 10:00 a 12:00.</li>",
+            "<li>Una prueba en grupo de cuatro por la tarde de 13:00 a 17:00.</li>",
+            "</ul>",
+            "Encontrará en las secciones siguientes toda la información importante que está buscando.",
+            "Si tiene preguntas, no dude en contactarnos y trataremos de responderle lo antes posible."
+        ]
+    },
+    "prize": {
+        "title": "💸 Premio en efectivo:",
+        "text": [
+            "La modesta suma de 100€ será entregada a los 5 primeros de la prueba de la mañana.",
+            "<br><br>",
+            "<em>Para la prueba de la tarde:</em>",
+            "<ul>",
+            "<li>1000€ serán entregados al grupo que quede primero.</li>",
+            "<li>600€ serán entregados al grupo que quede segundo.</li>",
+            "<li>400€ serán entregados al grupo que quede tercero.</li>",
+            "</ul>",
+            "Además, los tres primeros candidatos en la clasificación general recibirán cada uno un trofeo, ¡y habrá una sorpresa!",
+            "<br><br>",
+            "(Cabe destacar que la prueba de la mañana tiene un coeficiente 1, y la prueba de la tarde tiene un coeficiente 2)"
+        ]
+    },
+    "registration": {
+        "title": "📝 Modalidades de inscripción:",
+        "text": [
+            "<p>Para optar a l’Evariste, nada más sencillo, debe con su equipo:</p>",
+            "<ul>",
+            "<li>Rellenar cada uno el siguiente Typeform:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2024\">https://albertschool.typeform.com/levariste-2024<a>",
+            "</li>",
+            "<li>Luego enviar a <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
+            "(con el asunto “Evariste 2024” seguido del nombre de su equipo) los siguientes elementos:",
+            "<ol>",
+            "<li>A elegir:",
+            "<ul>",
+            "<li>Un video de 2 a 3 minutos que represente a su equipo y presente de manera original su interés por las matemáticas.</li>",
+            "<li>Un texto de máximo dos páginas que represente a su equipo y presente de manera original su interés por las matemáticas.</li>",
+            "</ul>",
+            "¡No dude en dejar volar su imaginación!",
+            "</li>",
+            "<li>Un justificante de cada uno que pruebe que son estudiantes de secundaria.",
+            "Puede ser un certificado de escolaridad nominal y fechado, un boletín de notas nominal y fechado, etc.</li>",
+            "</ol>",
+            "</li>",
+            "</ul>"
+        ]
+    },
+    "FAQ": {
+        "title": "⁉️ FAQ",
+        "text": [
+            "<p class=\"question\">No tengo grupo, ¿qué hago?</p>",
+            "<p class=\"answer\">",
+            "Puede unirse al Discord para formar un equipo con otros en la misma situación.",
+            "(<a href=\"https://discord.gg/QF8vKGwXbk\">https://discord.gg/QF8vKGwXbk</a>)",
+            "</p>",
+            "<p class=\"question\">No soy francés, ¿puedo participar?</p>",
+            "<p class=\"answer\">",
+            "La nacionalidad no es un criterio para participar.",
+            "Son bienvenidos independientemente de su nacionalidad.",
+            "</p>",
+            "<p class=\"question\">No estoy escolarizado en Francia, ¿puedo participar?</p>",
+            "<p class=\"answer\">Los participantes no escolarizados en Francia también son bienvenidos.",
+            "Sin embargo, debe estar escolarizado en un nivel equivalente a la secundaria en Francia, y poder asistir a la Albert School el día del concurso.",
+            "</p>",
+            "<p class=\"question\">Estoy en segundo año de secundaria, ¿puedo participar?</p>",
+            "<p class=\"answer\">",
+            "Sí, los estudiantes de segundo año de secundaria pueden participar en este concurso.<br>",
+            "Tenga en cuenta que los enunciados están dirigidos a un público de primer y último año de secundaria.",
+            "</p>"
+        ]
+    },
+    "quote": [
+        "« Sueño con un día en el que el egoísmo ya no reine en las ciencias, ",
+        "donde nos asociemos para estudiar, en lugar de enviar a los académicos sobres sellados, ",
+        "nos apresuremos a publicar nuestras más pequeñas observaciones siempre que sean nuevas, ",
+        "y añadamos “no sé el resto”. »"
+    ],
+    "history": {
+        "title": "🏆 Palmarés",
+        "text": "Por el momento no hay ganadores, ¡la primera edición aún no ha tenido lugar!"
+    },
+    "contact": {
+        "title": "📞 Contactarnos",
+        "text": [
+            "<a href=\"https://www.instagram.com/albertschool.business.data/\">Instagram</a><br>",
+            "<span class=\"a\">Email: </span><a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>"
+        ]
+    },
+    "rules": {
+        "title": "⚖️ Reglamento",
+        "text": [
+            "<p>",
+            "Este reglamento tiene como objetivo definir las condiciones y modalidades de participación en este concurso.",
+            "<br><br>",
+            "Los organizadores se reservan el derecho de modificar el reglamento en caso de circunstancias imprevistas, informando a los participantes de los cambios realizados.",
+            "<br><br>",
+            "El reglamento será recordado al inicio de cada prueba.",
+            "</p>",
+            "<ul>",
+            "<li>Los candidatos deben presentarse con una identificación válida el día del concurso.</li>",
+            "<li>",
+            "El uso de cualquier documento o material electrónico (calculadoras, teléfonos, tabletas,",
+            "ordenadores, relojes inteligentes y cualquier dispositivo electrónico de comunicación o almacenamiento) está",
+            "estrictamente prohibido durante las pruebas. Cualquier infracción a esta regla resultará en la",
+            "descalificación inmediata del candidato y de su equipo.",
+            "</li>",
+            "<li>Cualquier comportamiento de trampa o intento de fraude por parte de un candidato resultará en su descalificación inmediata y la de su equipo.</li>",
+            "<li>",
+            "Cuando suene la señal de fin de la prueba y un candidato no deje de escribir, el supervisor de la sala se reserva el derecho de descalificar al candidato y a su",
+            "equipo.",
+            "</li>",
+            "<li>",
+            "Los candidatos deben presentarse quince minutos antes del inicio de cada prueba.",
+            "Cualquier candidato que llegue tarde será rechazado y descalificará a su equipo.",
+            "</li>",
+            "<li>Los resultados del concurso se publicarán en el sitio oficial de l’Evariste en los días posteriores a la competición.</li>",
+            "<li>",
+            "Al anunciar los resultados, los equipos participantes tendrán un plazo especificado de un mes para presentar cualquier reclamación sobre los resultados.",
+            "Las reclamaciones deben ser presentadas por escrito y debidamente motivadas.",
+            "</li>",
+            "</ul>"
+        ]
+    }
+}
