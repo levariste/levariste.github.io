@@ -3,17 +3,17 @@ const lightThemeButton = document.getElementById("light-theme");
 
 function lightTheme() {
   document.body.classList.remove("dark-mode");
-  darkThemeButton.style.display = "block";
+  darkThemeButton.style.display = "inline-block";
   lightThemeButton.style.display = "none";
   localStorage.setItem("theme", "light");
-  logo.src = "images/logo_bis.svg";
+  logo.src = "../images/logo_bis.svg";
 }
 function darkTheme() {
   document.body.classList.add("dark-mode");
   darkThemeButton.style.display = "none";
-  lightThemeButton.style.display = "block";
+  lightThemeButton.style.display = "inline-block";
   localStorage.setItem("theme", "dark");
-  logo.src = "images/logo_ter.svg";
+  logo.src = "../images/logo_ter.svg";
 }
 darkThemeButton.addEventListener("click", darkTheme);
 lightThemeButton.addEventListener("click", lightTheme);
