@@ -32,5 +32,23 @@
 </body>
 
 <script src="script.js"></script>
+<script>
+    root = window.location.href.split('/').slice(0, -1).join('/');
+    function redirect(preference) {
+        if (preference.includes('fr')) {
+            window.location.href = root + "/fr/index.html";
+        } else if (preference.includes('en')) {
+            window.location.href = root + "/en/index.html";
+        } else if (preference.includes('es')) {
+            window.location.href = root + "/es/index.html";
+        } else if (preference.includes('it')) {
+            window.location.href = root + "/it/index.html";
+        }
+    }
+    redirect(navigator.language);
+    for (lang in navigator.languages) {
+        redirect(lang);
+    }
+</script>
 
 </html>
