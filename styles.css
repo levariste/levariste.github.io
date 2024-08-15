@@ -67,6 +67,28 @@ main{
     max-width: 35em;
     min-width: 15em;
 }
+
+@media only screen and (max-width: 680px) {
+    header{
+        min-height: 6.5em;
+        align-items: end;
+        padding-bottom: 0.5em;
+    }
+    #logo{
+        height: 3.5em;
+    }
+    h1{
+        font-size: 3em;
+    }
+    main {
+      flex-direction: column;
+    }
+    #left,#right{
+        padding: 1em;
+        max-width: 100%;
+        min-width: 0;
+    }
+}
 p{
     text-align: justify;
 }
