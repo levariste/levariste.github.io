@@ -95,7 +95,19 @@
     ],
     "history": {
         "title": "🏆 Winners",
-        "text": "At the moment there are no winners, the first edition has not yet taken place!"
+        "text": [
+            "<p><strong>2024</strong></p>",
+            "<ul>",
+            "<li>🥇 1st place team: Les Mathraqués (38 points)</li>",
+            "<li>🥈 2nd place team: PROJ (27 points)</li>",
+            "<li>🥉 3rd place team: Les FuturXtes (24 points)</li>",
+            "<li>🏆 1st place individual: Anatole BOUTON (108.5 points)</li>",
+            "<li>🏆 2nd place individual: Erik DUSERMONT (101 points)</li>",
+            "<li>🏆 3rd place individual: Malo EAV (100 points)</li>",
+            "<li>🏆 4th place individual: Lancelot CHONE (89 points)</li>",
+            "<li>🏆 5th place individual: Noam ISMAAILI ERNY (85 points)</li>",
+            "</ul>"
+        ]
     },
     "contact": {
         "title": "📞 Contact Us",
