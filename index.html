@@ -11,10 +11,10 @@
 
 <body>
     <nav>
-        <a id="fr" class="lang-button" href="fr/index.html"><img src="images/fr.png" alt="🇫🇷"></a>
-        <a id="en" class="lang-button" href="en/index.html"><img src="images/en.png" alt="🇬🇧"></a>
-        <a id="es" class="lang-button" href="sp/index.html"><img src="images/sp.png" alt="🇪🇸"></a>
-        <a id="it" class="lang-button" href="it/index.html"><img src="images/it.png" alt="🇮🇹"></a>
+        <a id="fr" class="lang-button" href="/fr"><img src="images/fr.png" alt="🇫🇷"></a>
+        <a id="en" class="lang-button" href="/en"><img src="images/en.png" alt="🇬🇧"></a>
+        <a id="es" class="lang-button" href="/sp"><img src="images/sp.png" alt="🇪🇸"></a>
+        <a id="it" class="lang-button" href="/it"><img src="images/it.png" alt="🇮🇹"></a>
         <button id="light-theme" class="theme-button">🌞</button>
         <button id="dark-theme" class="theme-button">🌚</button>
         <!--
@@ -58,13 +58,13 @@
     root = window.location.href.split('/').slice(0, -1).join('/');
     function redirect(preference) {
         if (preference.includes('fr')) {
-            window.location.href = root + "/fr/index.html";
+            window.location.href = root + "/fr";
         } else if (preference.includes('en')) {
-            window.location.href = root + "/en/index.html";
+            window.location.href = root + "/en";
         } else if (preference.includes('es')) {
-            window.location.href = root + "/es/index.html";
+            window.location.href = root + "/es";
         } else if (preference.includes('it')) {
-            window.location.href = root + "/it/index.html";
+            window.location.href = root + "/it";
         }
     }
     redirect(navigator.language);
@@ -72,7 +72,7 @@
         redirect(lang);
     }
     // Default language: French
-    window.location.href = root + "/fr/index.html";
+    window.location.href = root + "/fr";
 </script>
 
 </html>
