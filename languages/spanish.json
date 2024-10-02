@@ -9,7 +9,7 @@
     "info": {
         "title": "ⓘ Información general:",
         "text": [
-            "Se trata de un concurso abierto a todos los estudiantes de secundaria cuya primera edición se celebrará el sábado 3 de febrero de 2024 en las instalaciones de la Albert School (campus de París - X distrito).",
+            "<p>Se trata de un concurso abierto a todos los estudiantes de secundaria cuya primera edición se celebrará el sábado 3 de febrero de 2024 en las instalaciones de la Albert School (campus de París - X distrito).",
             "<br><br>",
             "Para participar, se debe formar un equipo de cuatro personas que incluya al menos una chica.",
             "Encontrarás los detalles de inscripción en la siguiente sección.",
@@ -20,7 +20,7 @@
             "<li>Una prueba en grupos de cuatro por la tarde de 13:00 a 17:00.</li>",
             "</ul>",
             "Las siguientes secciones detallan toda la información importante que puedas estar buscando.",
-            "Si tienes preguntas no dudes en contactarnos, trataremos de responder lo antes posible."
+            "Si tienes preguntas no dudes en contactarnos, trataremos de responder lo antes posible.</p>"
         ]
     },
     "prize": {
