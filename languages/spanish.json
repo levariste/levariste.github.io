@@ -26,7 +26,7 @@
     "prize": {
         "title": "💸 Premio en efectivo:",
         "text": [
-            "La modesta suma de 100€ será entregada a los 5 primeros de la prueba individual.",
+            "<p>La modesta suma de 100€ será entregada a los 5 primeros de la prueba individual.",
             "<br><br>",
             "<em>Para la prueba grupal por la tarde:</em>",
             "<ul>",
@@ -36,7 +36,7 @@
             "</ul>",
             "Además, los tres primeros candidatos en la clasificación general recibirán cada uno un trofeo, ¡y habrá una sorpresa!",
             "<br><br>",
-            "(Cabe destacar que la prueba grupal puntúa doble con respecto a la individual)"
+            "(Cabe destacar que la prueba grupal puntúa doble con respecto a la individual)</p>"
         ]
     },
     "registration": {

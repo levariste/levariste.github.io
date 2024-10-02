@@ -26,7 +26,7 @@
     "prize": {
         "title": "💸 Premio in denaro:",
         "text": [
-            "La modesta somma di 100€ sarà versata ai primi 5 della prova del mattino.",
+            "<p>La modesta somma di 100€ sarà versata ai primi 5 della prova del mattino.",
             "<br><br>",
             "<em>Per quanto riguarda la prova del pomeriggio:</em>",
             "<ul>",
@@ -36,7 +36,7 @@
             "</ul>",
             "I primi tre candidati nella classifica generale riceveranno inoltre ciascuno un trofeo e ci sarà una sorpresa!",
             "<br><br>",
-            "(Da notare che la prova del mattino ha un coefficiente di 1, mentre la prova pomeridiana ha un coefficiente di 2)"
+            "(Da notare che la prova del mattino ha un coefficiente di 1, mentre la prova pomeridiana ha un coefficiente di 2)</p>"
         ]
     },
     "registration": {

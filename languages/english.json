@@ -26,7 +26,7 @@
     "prize": {
         "title": "💸 Cash Prize:",
         "text": [
-            "The modest sum of €100 will be awarded to the top 5 in the morning test.",
+            "<p>The modest sum of €100 will be awarded to the top 5 in the morning test.",
             "<br><br>",
             "<em>For the afternoon test:</em>",
             "<ul>",
@@ -36,7 +36,7 @@
             "</ul>",
             "The top three candidates in the overall ranking will also each receive a trophy, and there will be a surprise!",
             "<br><br>",
-            "(Note that the morning test has a coefficient of 1, and the afternoon test has a coefficient of 2)"
+            "(Note that the morning test has a coefficient of 1, and the afternoon test has a coefficient of 2)</p>"
         ]
     },
     "registration": {
