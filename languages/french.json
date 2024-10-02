@@ -2,12 +2,13 @@
     "language": "fr",
     "title": "l'Évariste",
     "subtitle": "(Compétition de Mathématiques)",
+    "intro": [
+        "Bienvenue sur le site officiel de l’Evariste, concours d’excellence mathématique organisé par la Albert School.",
+        "Son nom fait référence au prodige des mathématiques Evariste Galois, un des plus grands mathématiciens du XIXème siècle célèbre pour son intuition formidable et son impétuosité déraisonnable."
+    ],
     "info": {
         "title": "ⓘ Informations générales:",
         "text": [
-            "Bienvenue sur le site officiel de l’Evariste, concours d’excellence mathématique organisé par la Albert School.",
-            "Son nom fait référence au prodige des mathématiques Evariste Galois, un des plus grands mathématiciens du XIXème siècle célèbre pour son intuition formidable et son impétuosité déraisonnable.",
-            "<br><br>",
             "Il s’agit d’un concours ouvert à tous les lycéens dont la première édition se tiendra le samedi 3 février 2024 au sein des locaux de la Albert School (campus de Paris - Xème arrondissement).",
             "<br><br>",
             "Pour y participer vous devez réunir une équipe de quatre personnes contenant à minima une fille.",
