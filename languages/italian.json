@@ -95,8 +95,20 @@
         "e si aggiungerà “non so il resto”. »"
     ],
     "history": {
-        "title": "🏆 Albo d'oro",
-        "text": "Al momento non ci sono vincitori, la prima edizione non si è ancora tenuta!"
+        "title": "🏆 Palmarès",
+        "text": [
+            "<p><strong>3 febbraio 2024</strong></p>",
+            "<ul>",
+            "<li>🥇 1° posto squadra: Les Mathraqués (38 punti)</li>",
+            "<li>🥈 2° posto squadra: PROJ (27 punti)</li>",
+            "<li>🥉 3° posto squadra: Les FuturXtes (24 punti)</li>",
+            "<li>🏆 1° posto individuale: Anatole BOUTON (108,5 punti)</li>",
+            "<li>🏆 2° posto individuale: Erik DUSERMONT (101 punti)</li>",
+            "<li>🏆 3° posto individuale: Malo EAV (100 punti)</li>",
+            "<li>🏆 4° posto individuale: Lancelot CHONE (89 punti)</li>",
+            "<li>🏆 5° posto individuale: Noam ISMAAILI ERNY (85 punti)</li>",
+            "</ul>"
+        ]
     },
     "contact": {
         "title": "📞 Contattaci",
