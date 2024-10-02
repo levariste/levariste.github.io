@@ -9,18 +9,20 @@
     "info": {
         "title": "ⓘ Información general:",
         "text": [
-            "<p>Se trata de un concurso abierto a todos los estudiantes de secundaria cuya primera edición se celebrará el sábado 3 de febrero de 2024 en las instalaciones de la Albert School (campus de París - X distrito).",
-            "<br><br>",
-            "Para participar, se debe formar un equipo de cuatro personas que incluya al menos una chica.",
-            "Encontrarás los detalles de inscripción en la siguiente sección.",
-            "<br><br>",
-            "<strong>El concurso consta de dos pruebas escritas:</strong>",
             "<ul>",
+            "<li><strong>Fecha:</strong> 1<sup>°</sup> de febrero de 2025.</li>",
+            "<li><strong>Lugares:</strong><ul>",
+            "<li>Francia: Los campus Albert (París, Marsella, Lyon)</li>",
+            "<li>Italia: Milán</li>",
+            "<li>Suiza: Ginebra</li>",
+            "<li>¡O tu escuela! ¿Cómo convertirse en organizador? Escribe a <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a></li>",
+            "</ul></li>",
+            "<li><strong>Público:</strong> Estudiantes de secundaria</li>",
+            "<li><strong>Equipo:</strong> 4 personas, de las cuales al menos una debe ser chica.</li>",
+            "<li><strong>2 pruebas <em>escritas</em>:</strong><ul>",
             "<li>Una prueba individual por la mañana de 10:00 a 12:00.</li>",
-            "<li>Una prueba en grupos de cuatro por la tarde de 13:00 a 17:00.</li>",
-            "</ul>",
-            "Las siguientes secciones detallan toda la información importante que puedas estar buscando.",
-            "Si tienes preguntas no dudes en contactarnos, trataremos de responder lo antes posible.</p>"
+            "<li>Una prueba en grupo de cuatro personas por la tarde de 13:00 a 17:00.</li>",
+            "</ul></li></ul>"
         ]
     },
     "prize": {
