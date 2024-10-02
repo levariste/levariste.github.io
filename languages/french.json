@@ -9,18 +9,20 @@
     "info": {
         "title": "ⓘ Informations générales:",
         "text": [
-            "<p>Il s’agit d’un concours ouvert à tous les lycéens dont la première édition se tiendra le samedi 3 février 2024 au sein des locaux de la Albert School (campus de Paris - Xème arrondissement).",
-            "<br><br>",
-            "Pour y participer vous devez réunir une équipe de quatre personnes contenant à minima une fille.",
-            "Vous trouverez les modalités d’inscription dans la rubrique qui suit.",
-            "<br><br>",
-            "<strong>Le concours est constitué de deux épreuves écrites:</strong>",
             "<ul>",
+            "<li><strong>Date:</strong> 1<sup>er</sup> février 2025.</li>",
+            "<li><strong>Lieux:</strong><ul>",
+            "<li>France: Les campus Albert (Paris, Marseille, Lyon)</li>",
+            "<li>Italie: Milan</li>",
+            "<li>Suisse: Genève</li>",
+            "<li>Ou ton lycée ! Comment devenir organisateur ? Ecris à <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a></li>",
+            "</ul></li>",
+            "<li><strong>Public:</strong> Lycéens</li>",
+            "<li><strong>Equipe:</strong> 4 personnes dont au moins une fille.</li>",
+            "<li><strong>2 épreuves <em>écrites</em>:</strong><ul>",
             "<li>Une épreuve en solo le matin de 10h00 à 12h00.</li>",
             "<li>Une épreuve en groupe de quatre l’après-midi de 13h00 à 17h00.</li>",
-            "</ul>",
-            "Vous trouverez dans les rubriques ci-dessous toutes les informations importantes que vous cherchez.",
-            "Si des questions persistent n’hésitez pas à nous contacter et nous tâcherons de vous répondre dès que possible.</p>"
+            "</ul></li></ul>"
         ]
     },
     "prize": {
