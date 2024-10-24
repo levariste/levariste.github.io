@@ -44,26 +44,17 @@
     "registration": {
         "title": "📝 Modalités d’inscription:",
         "text": [
-            "<p>Pour prétendre à l’Evariste rien de plus simple, vous devez avec votre équipe:</p>",
-            "<ul>",
-            "<li>Remplir chacun le Typeform suivant:",
-            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025<a>",
-            "</li>",
-            "<li>Puis envoyer à <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
-            "(avec en objet “Evariste 2024” suivi du nom de votre équipe) les éléments suivants:",
+            "<p>Pour prétendre à participer à l’Evariste, rien de plus simple !</p>",
             "<ol>",
-            "<li>Au choix:",
+            "<li>Les 4 membres doivent remplir avec grande attention le Typeform suivant:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025</a></li>",
+            "<li> Envoyer à <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a> (avec en objet “l'Evariste 2024 - Nom de votre équipe”) les éléments suivants: ",
             "<ul>",
-            "<li>Une vidéo d’une durée de 2 à 3 minutes qui représentera votre équipe et qui présentera de façon originale votre attrait pour les mathématiques.</li>",
-            "<li>Un texte de deux pages maximum qui représentera votre équipe et qui présentera de façon originale votre attrait pour les mathématiques.</li>",
+            "<li>Un justificatif chacun prouvant que vous êtes bel et bien lycéen (Cela peut-être un certificat de scolarité nominatif et daté, un bulletin de notes nominatif et daté, etc.)</li>",
+            "<li>Votre résultat/curiosité mathématique favorite ! Etayez le propos !</li>",
             "</ul>",
-            "N’hésitez pas à laisser libre cours à votre imagination !",
             "</li>",
-            "<li>Un justificatif chacun prouvant que vous êtes bien lycéen.",
-            "Cela peut-être un certificat de scolarité nominatif et daté, un bulletin de notes nominatif et daté, etc.</li>",
-            "</ol>",
-            "</li>",
-            "</ul>"
+            "</ol>"
         ]
     },
     "FAQ": {

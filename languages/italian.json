@@ -44,26 +44,17 @@
     "registration": {
         "title": "📝 Modalità di iscrizione:",
         "text": [
-            "<p>Per partecipare all’Evariste, niente di più semplice, dovete, con la vostra squadra:</p>",
-            "<ul>",
-            "<li>Compilare ciascuno il seguente Typeform:",
-            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025<a>",
-            "</li>",
-            "<li>Quindi inviare a <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
-            "(con oggetto “Evariste 2024” seguito dal nome della vostra squadra) i seguenti elementi:",
+            "<p>Per qualificarsi per partecipare all'Evariste, niente di più semplice!</p>",
             "<ol>",
-            "<li>A scelta:",
+            "<li>I 4 membri devono compilare attentamente il seguente Typeform:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025</a></li>",
+            "<li>Invia a <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a> (con oggetto “l'Evariste 2024 - Nome squadra”) i seguenti elementi: ",
             "<ul>",
-            "<li>Un video della durata di 2-3 minuti che rappresenti la vostra squadra e presenti in modo originale il vostro interesse per la matematica.</li>",
-            "<li>Un testo di massimo due pagine che rappresenti la vostra squadra e presenti in modo originale il vostro interesse per la matematica.</li>",
+            "<li>Prova che dimostri che sei effettivamente uno studente delle scuole superiori (potrebbe essere un certificato scolastico nominativo e datato, una pagella nominativa e datata, ecc.)</li>",
+            "<li>Il tuo risultato matematico/curiosità preferito! Sostieni il punto!</li>",
             "</ul>",
-            "Non esitate a dare libero sfogo alla vostra immaginazione!",
             "</li>",
-            "<li>Un documento per ciascuno che dimostri che siete effettivamente studenti delle scuole superiori.",
-            "Questo può essere un certificato di iscrizione nominativo e datato, una pagella nominativa e datata, ecc.</li>",
-            "</ol>",
-            "</li>",
-            "</ul>"
+            "</ol>"
         ]
     },
     "FAQ": {

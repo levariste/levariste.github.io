@@ -44,26 +44,17 @@
     "registration": {
         "title": "📝 Modalidades de inscripción:",
         "text": [
-            "<p>Para participar al concurso l’Evariste, nada más sencillo, tu y tu equipo debéis:</p>",
-            "<ul>",
-            "<li>Rellenar cada uno el siguiente formulario:",
-            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025<a>",
-            "</li>",
-            "<li>Enviar a <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a>",
-            "(con el asunto “Evariste 2024” seguido del nombre de su equipo) los siguientes elementos (una sola vez por equipo):",
+            "<p>Para calificar para participar en el Evariste, nada podría ser más sencillo!</p>",
             "<ol>",
-            "<li>A elegir:",
+            "<li>Los 4 miembros deben completar cuidadosamente el siguiente Typeform:",
+            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025</a></li>",
+            "<li>Enviar a<a href=\"mailto:contact@levariste.com\">contact@levariste.com</a> (con objeto “l'Evariste 2024 - Nombre del equipo”) los siguientes elementos: ",
             "<ul>",
-            "<li>Un vídeo de 2 o 3 minutos que presente con originalidad a vuestro equipo así como vuestro interés por las matemáticas.</li>",
-            "<li>Un texto de máximo dos páginas que presente con originalidad a vuestro equipo así como vuestro interés por las matemáticas.</li>",
+            "<li>Prueba cada una que demuestre que usted es efectivamente un estudiante de secundaria (esto podría ser un certificado escolar nominativo y fechado, una boleta de calificaciones nominativa y fechada, etc.)</li>",
+            "<li>¡Tu resultado/curiosidad matemática favorita! ¡Apoya el punto!</li>",
             "</ul>",
-            "¡No dudéis en dejar volar vuestra imaginación!",
             "</li>",
-            "<li>Un justificante por persona demostrando que sois todos estudiantes de secundaria.",
-            "Puede ser un certificado de escolaridad o un boletín escolar en el que aparezcan nombre y fecha de emisión, etc.</li>",
-            "</ol>",
-            "</li>",
-            "</ul>"
+            "</ol>"
         ]
     },
     "FAQ": {
