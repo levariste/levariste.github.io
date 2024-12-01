@@ -25,6 +25,12 @@
             "</ul></li></ul>"
         ]
     },
+    "orga": {
+        "title": "📋 ¿Cómo convertirse en organizador?",
+        "text": [
+            "<p>Llene el formulario <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeQG4tWKxxyJc7mE2B5COccGxbegzvlt5Sh0OI2f_QvFRWVhw/viewform?ts=672a21d4\">aquí</a>.</p>"
+        ]
+    },
     "prize": {
         "title": "💸 Premio en efectivo:",
         "text": [
