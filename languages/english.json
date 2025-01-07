@@ -34,17 +34,25 @@
     "prize": {
         "title": "💸 Cash Prize:",
         "text": [
-            "<p>To qualify to participate in the Evariste, nothing could be simpler!</p>",
-            "<ol>",
-            "<li>The 4 members must carefully complete the following Typeform:",
-            "<a target=\"_blank\" href=\"https://albertschool.typeform.com/levariste-2025\">https://albertschool.typeform.com/levariste-2025</a></li>",
-            "<li>Send to <a href=\"mailto:contact@levariste.com\">contact@levariste.com</a> (with object “l'Evariste 2024 - Team name”) the following elements: ",
+            "<p>Total: €7000</p>",
             "<ul>",
-            "<li>Proof each proving that you are indeed a high school student (This could be a nominative and dated school certificate, a nominative and dated report card, etc.)</li>",
-            "<li>Your favorite mathematical result/curiosity! Support the point!</li>",
+            "<li>Teams:",
+            "<ul>",
+            "<li>1st - €2100</li>",
+            "<li>2nd - €1300</li>",
+            "<li>3rd - €800</li>",
+            "<li>4th - €500</li>",
+            "<li>5th - €300</li>",
             "</ul>",
             "</li>",
-            "</ol>"
+            "<li>Individual:",
+            "<ul>",
+            "<li>€200 for the top ten</li>",
+            "</ul>",
+            "</li>",
+            "</ul>",
+            "<p>The top three candidates in the overall ranking will each be awarded a trophy, and there will be a surprise!</p>",
+            "<p>(Note that the morning event has a weighting factor of 1, and the afternoon event has a weighting factor of 2)</p>"
         ]
     },
     "registration": {

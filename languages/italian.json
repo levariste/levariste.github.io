@@ -34,17 +34,25 @@
     "prize": {
         "title": "💸 Premio in denaro:",
         "text": [
-            "<p>La modesta somma di 100€ sarà versata ai primi 5 della prova del mattino.",
-            "<br><br>",
-            "<em>Per quanto riguarda la prova del pomeriggio:</em>",
+            "<p>Totale: 7000€</p>",
             "<ul>",
-            "<li>1000€ saranno versati al gruppo che arriverà primo.</li>",
-            "<li>600€ saranno versati al gruppo che arriverà secondo.</li>",
-            "<li>400€ saranno versati al gruppo che arriverà terzo.</li>",
+            "<li>Squadre:",
+            "<ul>",
+            "<li>1º - 2100€</li>",
+            "<li>2º - 1300€</li>",
+            "<li>3º - 800€</li>",
+            "<li>4º - 500€</li>",
+            "<li>5º - 300€</li>",
             "</ul>",
-            "I primi tre candidati nella classifica generale riceveranno inoltre ciascuno un trofeo e ci sarà una sorpresa!",
-            "<br><br>",
-            "(Da notare che la prova del mattino ha un coefficiente di 1, mentre la prova pomeridiana ha un coefficiente di 2)</p>"
+            "</li>",
+            "<li>Individuali:",
+            "<ul>",
+            "<li>200€ per i primi dieci</li>",
+            "</ul>",
+            "</li>",
+            "</ul>",
+            "<p>I primi tre candidati nella classifica generale riceveranno ciascuno un trofeo e ci sarà una sorpresa!</p>",
+            "<p>(Nota: la prova mattutina ha un coefficiente di 1 e la prova pomeridiana ha un coefficiente di 2)</p>"
         ]
     },
     "registration": {
