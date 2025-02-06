@@ -118,6 +118,19 @@
             "</ul>"
         ]
     },
+    "annals": {
+        "title": "📖 Annali",
+        "text": [
+          "<ul>",
+          "<li><a target='_blank' href='../annales/Sujet0.pdf'>Argomento di Esempio</a></li>",
+          "<li><a target='_blank' href='../annales/Sujet0-ebauche_corrige.pdf'>Argomento di Esempio (Bozza di Soluzione)</a></li>",
+          "<li><a target='_blank' href='../annales/SujetIndividuel2024.pdf'>Argomento Individuale 2024</a></li>",
+          "<li><a target='_blank' href='../annales/SujetIndividuel2024-ebauche-corrige.pdf'>Argomento Individuale 2024 (Bozza di Soluzione)</a></li>",
+          "<li><a target='_blank' href='../annales/SujetGroupe2024.pdf'>Argomento di Gruppo 2024</a></li>",
+          "<li><a target='_blank' href='../annales/SujetGroupe2024-ebauche-corrige.pdf'>Argomento di Gruppo 2024 (Bozza di Soluzione)</a></li>",
+          "</ul>"
+        ]
+    },
     "contact": {
         "title": "📞 Contattaci",
         "text": [

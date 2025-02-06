@@ -119,6 +119,19 @@
             "</ul>"
         ]
     },
+    "annals": {
+        "title": "📖 Annals",
+        "text": [
+          "<ul>",
+          "<li><a target='_blank' href='../annales/Sujet0.pdf'>Sample Topic</a></li>",
+          "<li><a target='_blank' href='../annales/Sujet0-ebauche_corrige.pdf'>Sample Topic (Draft Answer Key)</a></li>",
+          "<li><a target='_blank' href='../annales/SujetIndividuel2024.pdf'>Individual Topic 2024</a></li>",
+          "<li><a target='_blank' href='../annales/SujetIndividuel2024-ebauche-corrige.pdf'>Individual Topic 2024 (Draft Answer Key)</a></li>",
+          "<li><a target='_blank' href='../annales/SujetGroupe2024.pdf'>Group Topic 2024</a></li>",
+          "<li><a target='_blank' href='../annales/SujetGroupe2024-ebauche-corrige.pdf'>Group Topic 2024 (Draft Answer Key)</a></li>",
+          "</ul>"
+        ]
+      },
     "contact": {
         "title": "📞 Contact Us",
         "text": [

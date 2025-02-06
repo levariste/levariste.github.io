@@ -118,6 +118,19 @@
             "</ul>"
         ]
     },
+    "annals": {
+        "title": "📖 Anales",
+        "text": [
+            "<ul>",
+            "<li><a target='_blank' href='../annales/Sujet0.pdf'>Tema de Muestra</a></li>",
+            "<li><a target='_blank' href='../annales/Sujet0-ebauche_corrige.pdf'>Tema de Muestra (Borrador de Respuestas)</a></li>",
+            "<li><a target='_blank' href='../annales/SujetIndividuel2024.pdf'>Tema Individual 2024</a></li>",
+            "<li><a target='_blank' href='../annales/SujetIndividuel2024-ebauche-corrige.pdf'>Tema Individual 2024 (Borrador de Respuestas)</a></li>",
+            "<li><a target='_blank' href='../annales/SujetGroupe2024.pdf'>Tema en Grupo 2024</a></li>",
+            "<li><a target='_blank' href='../annales/SujetGroupe2024-ebauche-corrige.pdf'>Tema en Grupo 2024 (Borrador de Respuestas)</a></li>",
+            "</ul>"
+        ]
+    },
     "contact": {
         "title": "📞 Contacto",
         "text": [
