@@ -7,7 +7,7 @@ html {
 
 @font-face {
   font-family: myKaira;
-  src: url(fonts/myKaira.ttf);
+  src: url(fonts/myKaira.woff);
   font-display: swap;
 }
 
