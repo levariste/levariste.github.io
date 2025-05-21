@@ -14,17 +14,114 @@ const logo = document.getElementById("logo");
   });
 })();
 
+function detectDeviceType() {
+  const width = window.innerWidth;
+  const height = window.innerHeight;
+  const orientation = width > height ? "landscape" : "portrait";
+
+  document.body.setAttribute("data-orientation", orientation);
+
+  if (width <= 480) {
+    document.body.setAttribute("data-device", "mobile");
+  } else if (width <= 768) {
+    document.body.setAttribute("data-device", "tablet");
+  } else if (width <= 1200) {
+    document.body.setAttribute("data-device", "laptop");
+  } else {
+    document.body.setAttribute("data-device", "desktop");
+  }
+
+  adjustParallaxForOrientation(orientation);
+}
+
+function adjustParallaxForOrientation(orientation) {
+  const header = document.querySelector("header");
+  if (!header) return;
+
+  const deviceType = document.body.getAttribute("data-device");
+
+  if (deviceType === "mobile" || deviceType === "tablet") {
+    if (orientation === "landscape") {
+      header.style.minHeight = deviceType === "mobile" ? "4em" : "8em";
+    } else {
+      header.style.minHeight = "";
+    }
+
+    header.style.transform = "translateY(0)";
+    function detectDeviceType() {
+      const width = window.innerWidth;
+      const height = window.innerHeight;
+      const orientation = width > height ? "landscape" : "portrait";
+
+      document.body.setAttribute("data-orientation", orientation);
+
+      if (width <= 480) {
+        document.body.setAttribute("data-device", "mobile");
+      } else if (width <= 768) {
+        document.body.setAttribute("data-device", "tablet");
+      } else if (width <= 1200) {
+        document.body.setAttribute("data-device", "laptop");
+      } else {
+        document.body.setAttribute("data-device", "desktop");
+      }
+
+      adjustParallaxForOrientation(orientation);
+    }
+
+    function adjustParallaxForOrientation(orientation) {
+      const header = document.querySelector("header");
+      if (!header) return;
+
+      const deviceType = document.body.getAttribute("data-device");
+
+      if (deviceType === "mobile" || deviceType === "tablet") {
+        if (orientation === "landscape") {
+          header.style.minHeight = deviceType === "mobile" ? "4em" : "8em";
+        } else {
+          header.style.minHeight = "";
+        }
+
+        header.style.transform = "translateY(0)";
+        header.style.backgroundPosition = "center 0";
+      }
+    }
+
+    header.style.backgroundPosition = "center 0";
+  }
+}
+
 let lastScrollTime = 0;
 function parallaxHeader() {
   const header = document.querySelector("header");
-  const scrollPosition = window.pageYOffset;
+  if (!header) return;
 
-  if (header && scrollPosition < window.innerHeight) {
-    window.requestAnimationFrame(() => {
-      header.style.transform = `translateY(${scrollPosition * 0.15}px)`;
-      header.style.backgroundPosition = `center ${scrollPosition * 0.3}px`;
-    });
+  const scrollPosition = window.scrollY || window.pageYOffset;
+  const deviceType = document.body.getAttribute("data-device");
+  const orientation = document.body.getAttribute("data-orientation");
+
+  if (scrollPosition >= window.innerHeight) return;
+
+  let parallaxFactor = 0.15;
+  let bgPositionFactor = 0.3;
+
+  switch (deviceType) {
+    case "mobile":
+    case "tablet":
+      parallaxFactor = 0.1;
+      bgPositionFactor = 0.15;
+      break;
+    case "laptop":
+      parallaxFactor = 0.12;
+      bgPositionFactor = 0.25;
+      break;
   }
+
+  window.requestAnimationFrame(() => {
+    header.style.transform = `translateY(${scrollPosition * parallaxFactor}px)`;
+    header.style.backgroundPosition = `center ${
+      scrollPosition * bgPositionFactor
+    }px`;
+  });
 }
 
 function changeLogoWithFade(newLogoSrc) {
@@ -88,12 +185,68 @@ if (darkThemeButton) darkThemeButton.addEventListener("click", darkTheme);
 if (lightThemeButton) lightThemeButton.addEventListener("click", lightTheme);
 
 let scrollTimeout;
-window.addEventListener("scroll", () => {
-  clearTimeout(scrollTimeout);
+let lastKnownScroll = 0;
+let ticking = false;
 
-  scrollTimeout = setTimeout(() => {
+function optimizedScroll() {
+  const deviceType = document.body.getAttribute("data-device");
+
+  let throttleDelay = 1;
+
+  switch (deviceType) {
+    case "mobile":
+      throttleDelay = 60;
+      break;
+    case "tablet":
+      throttleDelay = 30;
+      break;
+    case "laptop":
+      throttleDelay = 10;
+      break;
+    default:
+      throttleDelay = 1;
+  }
+
+  window.addEventListener(
+    "scroll",
+    () => {
+      lastKnownScroll = window.scrollY || window.pageYOffset;
+
+      if (!ticking) {
+        window.requestAnimationFrame(() => {
+          clearTimeout(scrollTimeout);
+          scrollTimeout = setTimeout(() => {
+            parallaxHeader();
+          }, throttleDelay);
+          ticking = false;
+        });
+        ticking = true;
+      }
+    },
+    { passive: true }
+  );
+}
+
+optimizedScroll();
+
+let resizeTimeout;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimeout);
+  resizeTimeout = setTimeout(() => {
+    detectDeviceType();
+
     parallaxHeader();
-  }, 1);
+
+    document.body.classList.add("resizing");
+    setTimeout(() => {
+      document.body.classList.remove("resizing");
+    }, 300);
+  }, 100);
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  detectDeviceType();
+  parallaxHeader();
 });
 
 const localTheme = localStorage.getItem("theme");
