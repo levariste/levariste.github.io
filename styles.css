@@ -1033,11 +1033,6 @@ li {
   text-align: left;
 }
 
-li::marker {
-  color: var(--accent-color);
-  font-weight: bold;
-}
-
 li ul {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
