@@ -1021,3 +1021,24 @@ body[data-device="mobile"] nav button {
   font-size: 16px;
   margin-left: 0.4em;
 }
+
+ul {
+  padding-left: 2em;
+  margin-bottom: 1.5em;
+}
+
+li {
+  padding-left: 0.5em;
+  margin-bottom: 0.5em;
+  text-align: left;
+}
+
+li::marker {
+  color: var(--accent-color);
+  font-weight: bold;
+}
+
+li ul {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
