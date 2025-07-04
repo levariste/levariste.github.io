@@ -106,16 +106,9 @@
     "history": {
         "title": "🏆 Winners",
         "text": [
-            "<p><strong>2024</strong>: <em>(3<sup>rd</sup> February)</em></p>",
             "<ul>",
-            "<li>🥇 1st place team: Les Mathraqués (38 points)</li>",
-            "<li>🥈 2nd place team: PROJ (27 points)</li>",
-            "<li>🥉 3rd place team: Les FuturXtes (24 points)</li>",
-            "<li>🏆 1st place individual: Anatole BOUTON (108.5 points)</li>",
-            "<li>🏆 2nd place individual: Erik DUSERMONT (101 points)</li>",
-            "<li>🏆 3rd place individual: Malo EAV (100 points)</li>",
-            "<li>🏆 4th place individual: Lancelot CHONE (89 points)</li>",
-            "<li>🏆 5th place individual: Noam ISMAAILI ERNY (85 points)</li>",
+            "<li><strong>2024</strong>: <a href='../results/2024_EvaristeResults.pdf'>Individuals/Groups</a></li>",
+            "<li><strong>2025</strong>: <a href='../results/2025-EvaristeResultsSolo.pdf'>Individuals</a>/<a href='../results/2025-EvaristeResultsGroups.pdf'>Groups</a></li>",
             "</ul>"
         ]
     },
