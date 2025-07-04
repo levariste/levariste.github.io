@@ -20,13 +20,13 @@ def build_language(language_file, prefix=None):
             d = data
             for k in keys:
                 d = d[k]
-            if type(d) == list:
+            if type(d) is list:
                 d = '\n'.join(d)
             template = template.replace(key, d)
 
         try:
             os.mkdir(prefix)
-        except:
+        except FileExistsError:
             pass
         f = open(f'{prefix}/{file}', 'w', encoding='UTF8')
         f.write(template)
