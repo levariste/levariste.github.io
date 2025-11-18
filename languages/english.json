@@ -10,7 +10,7 @@
         "title": "ⓘ General Information:",
         "text": [
             "<ul>",
-            "<li><strong>Date:</strong> February 1<sup>st</sup>, 2025.</li>",
+            "<li><strong>Date:</strong> January 31<sup>st</sup>, 2026.</li>",
             "<li><strong>Locations:</strong><ul>",
             "<li>France: Albert campuses (Paris, Marseille, Lyon)</li>",
             "<li>France: Lycée Tivoli (Bordeaux)</li>",
@@ -19,7 +19,7 @@
             "<li>France: Lycée Colbert, Tourcoing</li>",
             "<li>France: Lycée Jean Monnet, Joué-lès-Tours</li>",
             "<li>Morocco: Lycée Descartes, Rabat</li>",
-            "<li>Or your school! How to become an organizer? Fill out the form <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeQG4tWKxxyJc7mE2B5COccGxbegzvlt5Sh0OI2f_QvFRWVhw/viewform?ts=672a21d4\">here</a>.</li>",
+            "<li>Or your school! How to become an organizer? Fill out the form <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc26ZJlSJGvXWhdJiRzWn6B1o18Q2RdVSTP16lp-SbgHSdbrg/viewform\">here</a>.</li>",
             "</ul></li>",
             "<li><strong>Audience:</strong> High school students</li>",
             "<li><strong>Team:</strong> 4 people, at least one of whom must be a girl.</li>",
@@ -32,33 +32,14 @@
     "orga": {
         "title": "📋 How to become an organizer?",
         "text": [
-            "<p>Fill out the form <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeQG4tWKxxyJc7mE2B5COccGxbegzvlt5Sh0OI2f_QvFRWVhw/viewform?ts=672a21d4\">here</a>.</p>"
+            "<p>Fill out the form <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc26ZJlSJGvXWhdJiRzWn6B1o18Q2RdVSTP16lp-SbgHSdbrg/viewform\">here</a>.</p>"
         ]
     },
     "prize": {
         "title": "💸 Cash Prize:",
         "text": [
-            "<p>Total: €7000</p>",
-            "<ul>",
-            "<li>Teams:",
-            "<ul>",
-            "<li>1st - €2100</li>",
-            "<li>2nd - €1300</li>",
-            "<li>3rd - €800</li>",
-            "<li>4th - €500</li>",
-            "<li>5th - €300</li>",
-            "</ul>",
-            "</li>",
-            "<li>Individual:",
-            "<ul>",
-            "<li>For the first two: 1 spot for the Albert School Summer School in July 2025<br>",
-            "Two weeks of introduction to data and business, math courses, and fun! <br>",
-            "More information by email (<a href=\"summerschool@albertschool.com\">summerschool@albertschool.com</a>)</li>",
-            "<li>€200 for the first ten</li>",
-            "</ul>",
-            "</li>",
-            "</ul>",
-            "<p>The top three candidates in the overall ranking will each be awarded a trophy, and there will be a surprise!</p>",
+            "<p>Total: 5000€</p>",
+            "<p>The cash split is not decided yet.</p>",
             "<p>(Note that the morning event has a weighting factor of 1, and the afternoon event has a weighting factor of 2)</p>"
         ]
     },

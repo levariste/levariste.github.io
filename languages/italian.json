@@ -10,7 +10,7 @@
         "title": "ⓘ Informazioni generali:",
         "text": [
             "<ul>",
-            "<li><strong>Data:</strong> 1° febbraio 2025.</li>",
+            "<li><strong>Data:</strong> 31 gennaio 2026.</li>",
             "<li><strong>Luoghi:</strong><ul>",
             "<li>Francia: I campus Albert (Parigi, Marsiglia, Lione)</li>",
             "<li>Francia: Lycée Tivoli (Bordeaux)</li>",
@@ -19,7 +19,7 @@
             "<li>Francia: Lycée Colbert, Tourcoing</li>",
             "<li>Francia: Lycée Jean Monnet, Joué-lès-Tours</li>",
             "<li>Marocco: Lycée Descartes, Rabat</li>",
-            "<li>O la tua scuola! Come diventare organizzatore? Compila il modulo <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeQG4tWKxxyJc7mE2B5COccGxbegzvlt5Sh0OI2f_QvFRWVhw/viewform?ts=672a21d4\">qui</a>.</li>",
+            "<li>O la tua scuola! Come diventare organizzatore? Compila il modulo <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc26ZJlSJGvXWhdJiRzWn6B1o18Q2RdVSTP16lp-SbgHSdbrg/viewform\">qui</a>.</li>",
             "</ul></li>",
             "<li><strong>Pubblico:</strong> Studenti delle scuole superiori</li>",
             "<li><strong>Squadra:</strong> 4 persone, di cui almeno una ragazza.</li>",
@@ -32,33 +32,14 @@
     "orga": {
         "title": "📋 Come diventare organizzatore?",
         "text": [
-            "<p>Compila il modulo <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeQG4tWKxxyJc7mE2B5COccGxbegzvlt5Sh0OI2f_QvFRWVhw/viewform?ts=672a21d4\">qui</a>.</p>"
+            "<p>Compila il modulo <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc26ZJlSJGvXWhdJiRzWn6B1o18Q2RdVSTP16lp-SbgHSdbrg/viewform\">qui</a>.</p>"
         ]
     },
     "prize": {
         "title": "💸 Premio in denaro:",
         "text": [
-            "<p>Totale: 7000€</p>",
-            "<ul>",
-            "<li>Squadre:",
-            "<ul>",
-            "<li>1º - 2100€</li>",
-            "<li>2º - 1300€</li>",
-            "<li>3º - 800€</li>",
-            "<li>4º - 500€</li>",
-            "<li>5º - 300€</li>",
-            "</ul>",
-            "</li>",
-            "<li>Individuali:",
-            "<ul>",
-            "<li>Per i primi due: 1 posto per la Summer School di Albert School a luglio 2025<br>",
-            "Due settimane di introduzione ai dati e al business, corsi di matematica e divertimento! <br>",
-            "Maggiori informazioni via email (<a href=\"summerschool@albertschool.com\">summerschool@albertschool.com</a>)</li>",
-            "<li>200€ per i primi dieci</li>",
-            "</ul>",
-            "</li>",
-            "</ul>",
-            "<p>I primi tre candidati nella classifica generale riceveranno ciascuno un trofeo e ci sarà una sorpresa!</p>",
+            "<p>Totale: 5000€</p>",
+            "<p>La distribuzione del premio in denaro non è ancora stata definita.!</p>",
             "<p>(Nota: la prova mattutina ha un coefficiente di 1 e la prova pomeridiana ha un coefficiente di 2)</p>"
         ]
     },
