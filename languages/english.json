@@ -37,8 +37,13 @@
         "title": "💸 Cash Prize:",
         "text": [
             "<p>Total: 5000€</p>",
-            "<p>The cash split is not decided yet.</p>",
-            "<p>(Note that the morning event has a weighting factor of 1, and the afternoon event has a weighting factor of 2)</p>"
+            "<ul>",
+            "<li>1st: 400€</li>",
+            "<li>2nd: 300€</li>",
+            "<li>3rd: 200€</li>",
+            "<li>4th: 100€</li>",
+            "</ul>",
+            "<p>The prizes are the same for solo winners as well as for each member of the winning group.</p>"
         ]
     },
     "registration": {

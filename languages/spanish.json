@@ -37,8 +37,13 @@
         "title": "💸 Premio en efectivo:",
         "text": [
             "<p>Total: 5000€</p>",
-            "<p>El reparto de los premios aún no se ha finalizado.</p>",
-            "<p>(Nota: la prueba matutina tiene un coeficiente de 1, y la prueba vespertina tiene un coeficiente de 2)</p>"
+            "<ul>",
+            "<li>1°: 400€</li>",
+            "<li>2°: 300€</li>",
+            "<li>3°: 200€</li>",
+            "<li>4°: 100€</li>",
+            "</ul>",
+            "<p>Los premios son los mismos tanto para los ganadores individuales como para cada miembro del grupo ganador.</p>"
         ]
     },
     "registration": {
