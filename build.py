@@ -1,7 +1,8 @@
-import json
-import re
 import glob
+import json
 import os
+import re
+
 
 def build_language(language_file, prefix=None):
     language = language_file.replace('\\', '/').split('/')[1].split('.')[0]
@@ -11,7 +12,8 @@ def build_language(language_file, prefix=None):
         data = json.load(f)
 
     for file in glob.glob('_*.html'):
-        template = open(file, 'r', encoding='UTF8').read()
+        with open(file, 'r', encoding='UTF8') as f:
+            template = f.read()
         file = file.replace('_', '')
 
         key_re = r'\{\{[^\}]+\}\}'
@@ -28,9 +30,8 @@ def build_language(language_file, prefix=None):
             os.mkdir(prefix)
         except FileExistsError:
             pass
-        f = open(f'{prefix}/{file}', 'w', encoding='UTF8')
-        f.write(template)
-        f.close()
+        with open(f'{prefix}/{file}', 'w', encoding='UTF8') as f:
+            f.write(template)
 
 for file in glob.glob('languages/*.json'):
     print(file)
